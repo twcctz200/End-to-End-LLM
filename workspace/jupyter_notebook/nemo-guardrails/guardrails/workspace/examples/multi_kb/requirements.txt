@@ -4,3 +4,4 @@ pandas
 # faiss-cpu-1.7.4
 einops
 gpt4pandas
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
